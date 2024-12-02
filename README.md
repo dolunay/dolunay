@@ -1,40 +1,45 @@
 ## Hi there 👋
+Hi, I'm **Celal AK**, a **turkish .NET Developer** living in Turkiye. 
+
 I’m currently working on **.NET MAUI, Blazor**, **ABP Framework** and **MAUI Blazor Hybrid**
-### :gem: Languages
+
+### :star: Languages
 <p>
 <img width="30" height="30" alt="C#" src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg"> 
+<img width="30" height="30" alt="Delphi" src="https://github.com/get-icon/geticon/blob/master/icons/delphi.svg"> 
+<img width="30" height="30" alt="Dart" src="https://github.com/get-icon/geticon/blob/master/icons/dart.svg"> 
 <img width="30" height="30" alt="TypeScript" src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg">
 <img width="30" height="30" alt="JavaScript" src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg">
 <img width="30" height="30" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img width="30" height="30" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img width="30" height="30" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
 </p>
 
-### :gem: IDE
+### :star: IDE
 <p>
-<img width="30" height="30" alt="Visual Studio"src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg">
-<img width="30" height="30" alt="Visual Studio"src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg">
+<img width="30" height="30" alt="Visual Studio Code" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg">
+<img width="30" height="30" alt="Visual Studio" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg">
 </p>
 
-### :gem: Databases
+### star: Databases
 <p>
 <img width="30" height="30" alt="Sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 <img width="30" height="30" alt="MySQL"src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg">
 <img width="30" height="30" alt="Postgre SQL"src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg">
 </p>
 
-### :gem: OS
+### :star: OS
 <p>
 <img width="30" height="30" alt="Microsoft Windows" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg">
 <img width="30" height="30" alt="Android"src="https://github.com/get-icon/geticon/blob/master/icons/android-icon.svg">
 <img width="30" height="30" alt="Linux"src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg">
 </p>
 
-### :gem: Frameworks
+### :star: Frameworks
 <p>
 <img width="30" height="30" alt="ABP" src="https://avatars.githubusercontent.com/u/42068324?s=200&v=4">
 </p>
 
-### :gem: Tools & Technologies
+### 🧰: Tools & Technologies
 <p>
 <img width="30" height="30" alt="Azure" src="https://github.com/get-icon/geticon/blob/master/icons/azure-icon.svg">
 <img width="30" height="30" alt="Angular" src="https://github.com/get-icon/geticon/blob/master/icons/angular-icon.svg">
