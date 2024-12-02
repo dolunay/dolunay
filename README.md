@@ -17,7 +17,9 @@ I’m currently working on **.NET MAUI, Blazor**, **ABP Framework** and **MAUI B
 
 ### ℹ️ Informational Sources 
 #### ✨ [My Gist Pages](https://gist.github.com/dolunay) 
-#### 🌱 [Roadmap for Software Developers](https://gist.github.com/dolunay/3f2b5d2b25ede5296cdbf9f458a79ea0)
+#### 🌱 [Roadmap for Software Developers](https://gist.github.com/dolunay/3f2b5d2b25ede5296cdbf9f458a79ea0#file-roadmap-for-software-developers-md)
+#### 🌱 [Yazılım Geliştiriciler İçin Yol Haritası](https://gist.github.com/dolunay/3f2b5d2b25ede5296cdbf9f458a79ea0#file-yazilim-gelistiriciler-icin-yol-haritasi-md)
+
 <!--
 **dolunay/dolunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
